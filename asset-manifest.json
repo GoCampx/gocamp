@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gocamp/static/css/main.5f543426.css",
+    "main.css": "/gocamp/static/css/main.bc1ab7cb.css",
     "main.js": "/gocamp/static/js/main.222b2c2d.js",
     "static/js/787.ceed7eac.chunk.js": "/gocamp/static/js/787.ceed7eac.chunk.js",
     "static/media/38.JPG": "/gocamp/static/media/38.67b16765d705360aa590.JPG",
     "static/media/1.JPG": "/gocamp/static/media/1.307b5052cd9ca517c7b3.JPG",
     "index.html": "/gocamp/index.html",
-    "main.5f543426.css.map": "/gocamp/static/css/main.5f543426.css.map",
+    "main.bc1ab7cb.css.map": "/gocamp/static/css/main.bc1ab7cb.css.map",
     "main.222b2c2d.js.map": "/gocamp/static/js/main.222b2c2d.js.map",
     "787.ceed7eac.chunk.js.map": "/gocamp/static/js/787.ceed7eac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f543426.css",
+    "static/css/main.bc1ab7cb.css",
     "static/js/main.222b2c2d.js"
   ]
 }
